@@ -23,13 +23,6 @@
     *   **架构模式:** `MVVM`, `Stage模型`
     *   **认证:** HarmonyOS 开发者高级认证
 
-*   **云原生 & 运维 (Cloud Native & DevOps):**
-    *   **容器化:** `Docker`
-    *   **编排:** `Kubernetes`
-    *   **服务治理:** `Nacos`, `Etcd`
-    *   **存储:** `MinIO (S3)`
-    *   **其他工具:** `Git`, `Maven`, `Swagger`
-
 **🏆 主要项目 & 经历 (Projects & Experience)**
 
 *   **高并发订单处理系统 (Golang):** 采用 `Gin` + `Kafka` + `Redis` 构建，实现百万级请求处理能力，并通过 `Kubernetes` 实现服务高可用部署。
@@ -37,13 +30,6 @@
 *   **NTFGeek - 数字藏品交易平台 (Java):** 基于 `Spring Cloud Alibaba` 微服务架构，集成 `Elasticsearch`、`RocketMQ` 和 `Seata`，打造高性能、高可用的区块链数字藏品交易平台。
 *   **云界拾光 - 线上图书馆 (Java + React):** 采用 `Spring Boot` + `React` 全栈开发模式，结合 `Elasticsearch` 实现毫秒级响应的图书检索功能。
 *   **猿码笔记 & 即刻时光 APP (HarmonyOS):** 基于 `ArkTS` 与 `ArkUI` 开发，深入实践鸿蒙的分布式能力和 `MVVM` 架构，构建了流畅且功能丰富的原生应用。
-
-**💡 我的优势 (My Strengths)**
-
-*   **技术热情:** 热爱编程，对 Golang 和云原生技术有浓厚兴趣，享受解决复杂技术挑战带来的成就感。
-*   **快速学习:** 具备出色的学习能力，能够快速适应新技术和新环境。
-*   **团队协作:** 拥有良好的沟通能力和团队合作精神，注重代码质量与可维护性。
-*   **竞赛经验:** 多次在国家级和省级比赛中担任队长并获奖，具备良好的抗压能力和项目管理经验。
 
 **📫 如何联系我 (Get in Touch)**
 
